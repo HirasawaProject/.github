@@ -9,7 +9,7 @@ Brilliant, this is where we introduce you to our plugin store, you can create yo
 
 ## Repositories
 ### End user software
-* [Hirasawa-Server](https://github.com/HirasawaProject/Hirasawa-Server) - Bancho server (client logins, chat, multiplayer, etc)
+* [Hirasawa-Bancho](https://github.com/HirasawaProject/Hirasawa-Bancho) - Bancho server (client logins, chat, multiplayer, etc)
 * [Hirasawa-Web](https://github.com/HirasawaProject/Hirasawa-Web) - Web frontend also powering internal game APIs (score submission, leaderboard, etc)
 ### Utilities
 * Hirasawa-Docker (todo) - Docker container allowing a plug and play setup for Hirasawa instances
